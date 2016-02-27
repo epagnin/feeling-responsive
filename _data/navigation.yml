@@ -1,37 +1,33 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
+- title: "Research Areas"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Cryptography"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Privacy"
     url: "/design/typography/"
-  - title: "Page/Post"
+  - title: "Automotiv Security"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+#  - title: "Post-Right-Sidebar"
+#    url: "/design/post-right-sidebar/"
+#  - title: "Page Full-Width"
+#    url: "/design/page-fullwidth/"
+#  - title: "Blog-Page"
+#    url: "/blog/"
+#  - title: "Video"
+#    url: "/design/video/"
+#  - title: "Gallery"
+#    url: "/design/gallery/"
+#  - title: "Portfolio"
+#    url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Projects"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,26 +46,18 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: People
   url: "/documentation/"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
-- title: Blog
+- title: Publications
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
-- title: "Search"
+- title: "Courses & Other Activities"
   url: "/search/"
-  side: right
+  side: left
 
-- title: "Contact"
+- title: "Contact us"
   url: "/contact/"
   side: right

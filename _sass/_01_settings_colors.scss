@@ -19,7 +19,7 @@
 $text-color:       	#111;
 $body-font-color: 	$text-color;
 $body-bg: 			#fdfdfd;
-
+$head-bg:			#aaa;
 
 
 /* Corporate Identity Colorpalette
@@ -72,7 +72,7 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
+$topbar-bg-color: $head-bg;
 $topbar-bg: $topbar-bg-color;
 
 
